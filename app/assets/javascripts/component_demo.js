@@ -3,6 +3,7 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 
+/*
 var App  = React.createClass({
 
   render() {
@@ -10,8 +11,9 @@ var App  = React.createClass({
   }
 
 });
+*/
 
-/*
+
 var App = React.createClass({
 
   getInitialState() {
@@ -45,7 +47,7 @@ var App = React.createClass({
   }
 
 });
-*/
+
 
 ReactDOM.render(
     <App title="ReactJS example"/>,

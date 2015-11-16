@@ -6,4 +6,7 @@ class MainController < ApplicationController
   def todo
   end
 
+  def todo_nuclear
+  end
+
 end
